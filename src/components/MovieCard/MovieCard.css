@@ -3,8 +3,8 @@
     min-height : 160px;
     margin: 10px auto 5px auto;
     padding-bottom : 10px;
-    background-color: #4a69bd;
-    border : 1px solid #1e3799;
+    background-color: black;
+    border : 1px solid black;
 	border-radius: 5px;
     text-align: center;  
 }
@@ -17,7 +17,7 @@
 
  h4 {
     margin : 10px auto 20px auto;
-    color : #f8c291;
+    color :#8AB4F8;
     font-weight : normal;
     font-size : 18px;
     font-weight : bold;
@@ -27,7 +27,7 @@
     margin-right : 10px;
     padding : 7px;
     float : right;
-    background-color: #4a69bd;
+    background-color: black;
     color : white;
     border : none;
     border-radius : 5px;

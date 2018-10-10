@@ -3,9 +3,9 @@
     height : 60px;
     margin: 0 auto 10px;
     padding : 10px auto;
-    background-color : #f8c291;
-    border-top : 1px solid #1e3799;
-    border-bottom : 1px solid #1e3799;
+    background-color : #5E5E5E;
+    border-top : 1px solid black;
+    border-bottom : 1px solid black;
 	font-size: 1.2em; 
 }
 
@@ -16,7 +16,7 @@ form {
 }
 
  progress {
-	height: 5px;
+	height: 10px;
     width: 50%;	
 }
 
@@ -30,14 +30,14 @@ form {
 
 .likeDislike span {
     font-weight : bold;
-    color : #4a69bd; 
+    color : white; 
 }
 
 .likeDislike button {
     width : 60px;
     padding : 5px;
-    background-color : #f8c291;
-    color : #4a69bd;
+    background-color : #5E5E5E;
+    color : #8AB4F8;
     border : none;
     border-radius : 5px;
     font-size : 14px;
@@ -46,10 +46,9 @@ form {
 }
 
 .likeDislike button:hover {
-	background-color: #4a69bd;
-    color : #f8c291;
+	background-color: #8AB4F8;
+    color :white;
 }
-
 
 
  
