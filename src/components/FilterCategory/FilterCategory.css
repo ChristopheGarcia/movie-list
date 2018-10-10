@@ -1,0 +1,15 @@
+.selectContainer {
+    margin : 0 auto 15px auto;
+}
+
+#selectBar {
+    min-width : 20%;
+    height : 30px;
+    border : 1px solid #4a69bd;
+    background-color : #f8c291;
+    border-radius : 5px;
+    cursor : pointer;
+    padding-left : 5px;
+    font-size : 16px;
+    color : #4a69bd;
+}

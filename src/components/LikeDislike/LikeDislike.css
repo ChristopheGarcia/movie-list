@@ -1,0 +1,55 @@
+.likeDislikeContainer{
+    width: 100%;
+    height : 60px;
+    margin: 0 auto 10px;
+    padding : 10px auto;
+    background-color : #f8c291;
+    border-top : 1px solid #1e3799;
+    border-bottom : 1px solid #1e3799;
+	font-size: 1.2em; 
+}
+
+form {
+	display: flex;
+    align-items: center;
+    padding-top : 5px;
+}
+
+ progress {
+	height: 5px;
+    width: 50%;	
+}
+
+.likeDislike {
+    margin : 0 auto;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;  
+ }
+
+.likeDislike span {
+    font-weight : bold;
+    color : #4a69bd; 
+}
+
+.likeDislike button {
+    width : 60px;
+    padding : 5px;
+    background-color : #f8c291;
+    color : #4a69bd;
+    border : none;
+    border-radius : 5px;
+    font-size : 14px;
+    font-weight : bold;
+    cursor : pointer;
+}
+
+.likeDislike button:hover {
+	background-color: #4a69bd;
+    color : #f8c291;
+}
+
+
+
+ 
